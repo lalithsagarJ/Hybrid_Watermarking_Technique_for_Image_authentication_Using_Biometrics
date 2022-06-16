@@ -1,2 +1,2 @@
-# Hybrid_Watermarking_Technique_for_Image_authentication_Using_Biometrics
+# Hybrid_Watermarking_Technique
 Image Watermarking Using DWT-DCT-SVD
